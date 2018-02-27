@@ -139,6 +139,7 @@ REGISTER_OUT_PLUGIN("out_retry")
 REGISTER_OUT_PLUGIN("out_td")
 REGISTER_OUT_PLUGIN("out_lib")
 REGISTER_OUT_PLUGIN("out_flowcounter")
+REGISTER_OUT_PLUGIN("out_az")
 
 # FILTERS
 # =======
